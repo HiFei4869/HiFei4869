@@ -1,9 +1,8 @@
 **Hi! My**
 ![Visitor Count](https://profile-counter.glitch.me/HiFei4869/count.svg) **th visitor!**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=5500&pause=1000&color=AF5CF7&center=true&random=false&width=435&lines=I'm+Yifei+Song%2C+a+student+in+CUHK;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&duration=5500&pause=1000&color=04d10c&background=000000&center=true&random=false&width=435&lines=I'm+Yifei+Song%2C+a+student+in+CUHK;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=5500&pause=1000&color=AF5CF7&center=true&random=false&width=435&lines=I'm+Yifei+Song%2C+a+student+in+CUHK;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
 
 
 <!--
