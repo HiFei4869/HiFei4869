@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on copyright protection problem in generative models.
-- 👯 I’m currently on an exchange in Switzerland.
-- 📫 [my personal website](Hifei4869.github.io)
+- 👯 I’m on an exchange in Switzerland.
 - ⚡ Fun fact: I love Glam Rock.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFei4869&layout=compact)](https://github.com/HiFei4869/github-readme-stats)
