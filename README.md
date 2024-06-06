@@ -1,5 +1,5 @@
-## Hi!
-![Visitor Count](https://profile-counter.glitch.me/HiFei4869/count.svg)
+**Hi! My**
+![Visitor Count](https://profile-counter.glitch.me/HiFei4869/count.svg) **th visitor!**
 
 ## I'm Yifei Song. Welcome to my website! 👋
 
