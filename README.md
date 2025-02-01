@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on copyright protection problem in generative models.
-- 👯 I’m on an exchange in Switzerland.
-- ⚡ Fun fact: I love Glam Rock.
+- 🔭 I’m currently working on my final year project about machine unlearning.
+- 👯 Find me in CUHK.
+- ⚡ Fun fact: I love Glam Rock and Cantonese Pop music.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFei4869&layout=compact)](https://github.com/HiFei4869/github-readme-stats)
 
